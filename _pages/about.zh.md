@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-lang: zh
+lang: zh  # 中文版本
 ---
 
 我目前是卡尔斯鲁厄理工学院（Karlsruhe Institute of Technology）的博士生，并于2025年2月14日成功通过了我的博士论文答辩。
