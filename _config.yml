@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Jincan Chen"
 description              : "Welcome to my personal homepage!"
 repository               : "Jincan-Chen/Jincan-Chen.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jincan Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Jimei University"
   location         : "Xiamen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en"
   email            : "Jincan.chen@kit.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Jincan-Chen-2"
+  researchgate     : "https://www.researchgate.net/profile/Jincan-Chen-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/0000-0003-0312-7034"
+  orcid            : "https://orcid.org/0000-0003-0312-7034"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
