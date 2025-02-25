@@ -1,0 +1,27 @@
+name: Google Scholar Citation Fetcher
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 每天 UTC 时间 08:00 触发
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  fetch-citations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Run Google Scholar Citation Fetcher
+        run: |
+          ruby google-scholar-fetcher.rb  # 替换为实际的抓取命令
