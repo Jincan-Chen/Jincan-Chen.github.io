@@ -3,9 +3,9 @@ permalink: /en/about/
 title: "About Me"
 #excerpt: ""
 author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 lang: en  # 英文版本
 ---
 
