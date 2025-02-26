@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b7ecee8-0b36-4f30-bb01-bba2a53fcdc5)![image](https://github.com/user-attachments/assets/7f393f16-69e8-4099-bb73-f326de2a2644)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -54,10 +54,10 @@ redirect_from:
 - [Biomonitoring of aromatic hydrocarbons in clam Meretrix meretrix from an emerging urbanization area, and implications for human health](https://doi.org/10.1016/j.ecoenv.2020.110271), Chao Fang, Jun Bo*, Ronghui Zheng, Fukun Hong, Weiming Kuang, Yulu Jiang, **Jincan Chen**, Yusheng Zhang, Helmut Segner, **Ecotoxicology and Environmental Safety 2020 April**, JCR分区Q1, 中科院分区1区，IF=6.291.
 - [Physiological-dependent alterations on transcriptomic and proteomic patterns of the single and combined temperature and salinity-exposed hybrid grouper, Epinephelus fuscoguttatus ♀ × Epinephelus lanceolatus ♂](https://doi.org/10.1016/j.aquaculture.2023.739746), Jun Bo, Ronghui Zheng, Yulu Jiang, **Jincan Chen**, Chao Fang, Christyn Bailey, Jae-Seong Lee, Helmut Segner, **Aquaculture 2023 October**, JCR分区Q1, 中科院分区1区，IF=4.5.
 - [Applying a fish expert system for ranking the biological effects of polycyclic aromatic hydrocarbons on the rockfish Sebastiscus marmoratus in the Maowei Sea, China](https://link.springer.com/article/10.1007/s13131-022-2033-1), Ronghui Zheng, Chao Fang, Fukun Hong, Weiming Kuang, Yulu Jiang, **Jincan Chen**, Yusheng Zhang, Jun Bo, **Acta Oceanologica Sinica, 2023 January**, JCR分区Q3, 中科院分区2区，IF=1.4.
-- [纳米氢氧化镁对Bt蛋白杀虫活性及抗紫外能力影响的研究], 李澜，**陈锦灿**，杨兆元，李东哲，吴薇，饶文华，潘晓鸿，关雄, **农业生物技术学报 2015**, 北大中文核心期刊.
-- [纳米层状双金属氢氧化物抗菌活性以及抗菌机制研究], 饶文华，**陈锦灿**，陈赛黎，占亚婷，郑怡琳，潘晓鸿，关雄, **农业生物技术学报 2018**, 北大中文核心期刊.
-- [苏云金芽胞杆菌对镉胁迫下水稻种苗生长发育的影响], 饶文华, 李澜, 吴薇, **陈锦灿**, 潘晓鸿, **农业生物技术学报 2015**, 北大中文核心期刊.
-- [微(纳米)塑料对海洋渔业水域中重要饲料藻类的生态风险评估研究], 章敏，薄军，郑榕辉，高富龙，洪幅坤，**陈锦灿**，方超, **农业生物技术学报 2022**, 北大中文核心期刊.
+- 纳米氢氧化镁对Bt蛋白杀虫活性及抗紫外能力影响的研究, 李澜，**陈锦灿**，杨兆元，李东哲，吴薇，饶文华，潘晓鸿，关雄, **农业生物技术学报 2015**, 北大中文核心期刊.
+- 纳米层状双金属氢氧化物抗菌活性以及抗菌机制研究, 饶文华，**陈锦灿**，陈赛黎，占亚婷，郑怡琳，潘晓鸿，关雄, **农业生物技术学报 2018**, 北大中文核心期刊.
+- 苏云金芽胞杆菌对镉胁迫下水稻种苗生长发育的影响, 饶文华, 李澜, 吴薇, **陈锦灿**, 潘晓鸿, **农业生物技术学报 2015**, 北大中文核心期刊.
+- 微(纳米)塑料对海洋渔业水域中重要饲料藻类的生态风险评估研究, 章敏，薄军，郑榕辉，高富龙，洪幅坤，**陈锦灿**，方超, **农业生物技术学报 2022**, 北大中文核心期刊.
 
 
 # 🎖 Honors and Awards 获奖情况
