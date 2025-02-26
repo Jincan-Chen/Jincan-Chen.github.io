@@ -1,12 +1,12 @@
 ---
-permalink: /en/about/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-lang: en  # 英文版本
+lang: en
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
