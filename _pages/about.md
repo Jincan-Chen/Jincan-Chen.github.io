@@ -39,7 +39,7 @@ redirect_from:
 - *2020 - 2021*,  厦门市青年创新基金项目, [厦门潮间带底栖生物体内的微塑料污染状况与生物学效应研究], 3502Z20206099, 15万, **参与**.
 - *2021 - 2024*,  福建省自然科学基金面上项目, [福建海湾与河口潮间带典型底栖生物体内的微塑料污染特征及人体健康危害风险评估研究], 2021J0111, 10万, **参与**, 排名第6.
 
-# ✍️ Publications
+# 🔥 Publications
 - [Environmentally relevant concentrations of microplastics modulated the immune response and swimming activity, and impaired the development of marine medaka Oryzias melastigma larvae](https://doi.org/10.1016/j.ecoenv.2022.113843), **Jincan Chen**, Chao Fang, Ronghui Zheng, Mingliang Chen, Duck-Hyun Kim, Young-Hwan Lee, Christyn Bailey, Kejian Wang, Jae-Seong Lee, Jun Bo, **Ecotoxicology and Environmental Safety, 2022 August**, JCR分区Q1, 中科院分区2区，IF=7.129.
 - [Comparative insight into the regenerative mechanisms of the adult brain in zebrafish and mouse: Highlighting the importance of the immune system and inflammation in successful regeneration](https://doi.org/10.1111/febs.17231), **Jincan Chen**, Hector Sanchez-Iranzo, Nicolas Diotel, Sepand Rastegar, **The FEBS Journal, 2024 June**, JCR分区Q1, 中科院分区2区，IF=5.5.
 - [Microplastics negatively impact embryogenesis and modulate the immune response of the marine medaka Oryzias melastigma](https://doi.org/10.1016/j.marpolbul.2020.111349), **Jincan Chen**, Mengyun Chen, Chao Fang, Ronghui Zheng, Yulu Jiang, Yusheng Jiang, Kejian Wang, Christyn Bailey, Helmut Segner, Jun Bo, **Marine Pollution Bulletin, 2020 September**, JCR分区Q1, 中科院分区3区，IF=5.553.
