@@ -16,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='research-interests'></span>
+<span class='anchor' id='about-me'></span>
 
 # 🧐 Research interests 研究课题
 -  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on May 2025.
