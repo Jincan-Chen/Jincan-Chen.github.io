@@ -1,29 +1,29 @@
 # main links links
 main:
-  - title: "Research interests 研究课题"
+  - title: "Research interests"
     url: "/#-research-interests"
 
-  - title: "News 新闻"
-    url: "/#-news- %E6%96%B0%E9%97%BB"
+  - title: "News"
+    url: "/#-news"
 
-  - title: "Projects 参与及主持科研项目"
-    url: "/#-projects- %E5%8F%83%E4%B8%8E%E5%8F%8A%E4%B8%BB%E6%8C%81%E7%A7%91%E7%A0%94%E9%A1%B9%E7%9B%AE"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Publications 论文著作"
-    url: "/#-publications- %E8%AE%BA%E6%96%87%E8%91%97%E4%BD%9C"
+  - title: "Publications"
+    url: "/#-publications"
     
-  - title: "Honors and Awards 获奖情况"
-    url: "/#-honors-and-awards- %E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Educations 教育经历"
-    url: "/#-educations- %E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86"
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "Other training experiences 其他培训经历"
-    url: "/#-other-training-experiences- %E5%85%B6%E4%BB%96%E5%9F%B9%E8%AE%AD%E7%BB%8F%E5%8E%86"
+  - title: "Other training experiences"
+    url: "/#-other-training-experiences"
 
-  - title: "Part-times 社会兼职情况"
-    url: "/#-part-times- %E7%A4%BE%E4%BC%9A%E5%85%BB%E4%BB%AC%E6%83%85%E5%86%B5"
+  - title: "Part-times"
+    url: "/#-part-times"
     
-  - title: "Join us! 加入我们！"
-    url: "/#-join-us- %E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC%EF%BC%81"
+  - title: "Join us!"
+    url: "/#-join-us"
 
