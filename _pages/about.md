@@ -96,4 +96,5 @@ redirect_from:
 - 请与陈锦灿老师联络! E-mail: jincan.chen@outlook.com或致电 01-2345678. 
 
 
-  *last update on 26.02.2025* 
+
+  *last updated on 26.02.2025* 
