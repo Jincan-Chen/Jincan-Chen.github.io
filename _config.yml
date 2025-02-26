@@ -5,14 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# 设置站点的默认语言
-lang: en  # 默认语言设置为英文
-
-# 配置语言版本
-languages:
-  - en
-  - zh
-  
 # Site Settings
 title                    : "Jincan Chen"
 description              : "Welcome to my personal homepage!"
