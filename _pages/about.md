@@ -22,7 +22,7 @@ redirect_from:
 -  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on May 2025.
 -  His research interest includes toxicology, neuroscience and aquaculture. He has published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>318+</span></strong></a> <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-<span class='anchor' id='news'></span>
+
 # 🔥 News 新闻
 - *2025.02*: &nbsp;🎉🎉 Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany. Jincan Chen passed his oral exam with *magna cum laude*, congratulations! 
 
@@ -96,3 +96,4 @@ redirect_from:
 - 请与陈锦灿老师联络! E-mail: jincan.chen@outlook.com或致电 01-2345678. 
 
 
+  *last update on 26.02.2025* 
