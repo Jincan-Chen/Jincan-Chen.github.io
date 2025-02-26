@@ -5,9 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-languages:
-  - en
-  - zh
+lang: en  # 英文版本
+lang: zh  # 中文版本
   
 # Site Settings
 title                    : "Jincan Chen"
