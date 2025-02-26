@@ -1,11 +1,11 @@
 ---
 permalink: /zh/about/
-title: 关于我
+title: ""
 #excerpt: ""
 author_profile: true
 redirect_from: 
-  - /zh/about/
-  - /zh/about.html
+  - /about/
+  - /about.html
 lang: zh  # 中文版本
 ---
 
