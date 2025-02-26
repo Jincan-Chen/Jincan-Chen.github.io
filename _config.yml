@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Jincan Chen"
+title                    : "Associate professor"
 description              : "Welcome to my personal homepage!"
 repository               : "Jincan-Chen/Jincan-Chen.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jincan Chen"
   avatar           : "images/android-chrome-1024x1024.png"
-  bio              : "Jimei University"
+  bio              : "Fisheries college, Jimei University"
   location         : "Xiamen, China"
   employer         :
   pubmed           : 
