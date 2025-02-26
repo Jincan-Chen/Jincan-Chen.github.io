@@ -1,23 +1,23 @@
 # main links links
 main:
   - title: "Research interests"
-    url: "/#-Research interests"
+    url: "/#research-interests"
 
   - title: "News"
-    url: "/#-News"
+    url: "/#news"
 
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#projects"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#publications"
     
   - title: "Honors and Awards"
-    url: "/#Honors and Awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#educations"
 
   - title: "Join us!"
-    url: "/#-Join us!"
+    url: "/#join-us"
 
