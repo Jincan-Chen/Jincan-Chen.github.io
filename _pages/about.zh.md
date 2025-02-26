@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /zh/about/
 title: ""
 excerpt: ""
 author_profile: true
