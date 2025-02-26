@@ -1,23 +1,29 @@
 # main links links
 main:
-  - title: "Research interests"
+  - title: "Research interests 研究课题"
     url: "/#-research-interests"
 
-  - title: "News"
+  - title: "News 新闻"
     url: "/#-news"
 
-  - title: "Projects"
+  - title: "Projects 参与及主持科研项目"
     url: "/#-projects"
 
-  - title: "Publications"
+  - title: "Publications 论文著作"
     url: "/#-publications"
     
-  - title: "Honors and Awards"
+  - title: "Honors and Awards 获奖情况"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "Educations 教育经历"
     url: "/#-educations"
 
-  - title: "Join us!"
+  - title: "Other training experiences 其他培训经历"
+    url: "/#-other-training-experiences"
+
+  - title: "Part-times 社会兼职情况"
+    url: "/#-opart-times"
+    
+  - title: "Join us! 加入我们！"
     url: "/#-join-us"
 
