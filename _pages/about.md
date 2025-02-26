@@ -1,5 +1,5 @@
 ---
-permalink: /about.md
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
