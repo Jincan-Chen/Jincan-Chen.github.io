@@ -1,11 +1,11 @@
 ---
 permalink: /en/about/
-title: "About Me"
-#excerpt: ""
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
-  - /en/about/
-  - /en/about.html
+  - /about/
+  - /about.html
 lang: en  # 英文版本
 ---
 
