@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jincan Chen"
-description              : "Associate Professor"
+description              : "Fisheries college of Jimei University (JMU)"
 repository               : "Jincan-Chen/Jincan-Chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jincan Chen"
   avatar           : "images/android-chrome-1024x1024.png"
-  bio              : "Fisheries college of Jimei University (JMU)"
+  bio              : "Associate Professor"
   location         : "Xiamen, China"
   employer         :
   pubmed           : 
