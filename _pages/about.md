@@ -20,7 +20,7 @@ redirect_from:
 
 # 🔥 Research interests
 -  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on May 2025.
--  His research interest includes toxicology, neuroscience and aquaculture. He has published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>318+</span></strong></a> <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-  His research interest includes toxicology, neuroscience and aquaculture. He has published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'></span></strong></a> <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎉 News
@@ -47,7 +47,7 @@ redirect_from:
 - [Embryotoxicity of polystyrene microspheres of different sizes to the marine medaka Oryzias melastigma (McClelland, 1839)](https://doi.org/10.3390/w14121831), **Jincan Chen**, Chao Fang, Ronghui Zheng, Jun Bo, **Water 2022 June**, JCR分区Q2, 中科院分区3区，IF=3.53.
 - 应用物种敏感性分布评估微(纳米)塑料对水生生物的生态风险, **陈锦灿**, 方超, 郑榕辉, 张玉生, 王克坚, 薄军, **生态毒理学报 2022 February**, 北大中文核心期刊，IF=1.36.
 - [First evidence of meso- and microplastics on the mangrove leaves ingested by herbivorous snails and induced transcriptional responses](https://doi.org/10.1016/j.scitotenv.2022.161240), Chao Fang, Ronghui Zheng, Fukun Hong, Shunyang Chen, Guangcheng Chen, Min Zhang, Fulong Gao, **Jincan Chen**, Jun Bo, **Science of the Total Environment 2023 March**, JCR分区Q1, 中科院分区1区，IF=10.753.
-- [Microplastics in three typical benthic species from the Arctic: occurrence, characteristics, sources, and environmental implications](https://doi.org/10.1016/j.envres.2020.110326), Chao Fang, Ronghui Zheng, Fukun Hong, Yulu Jiang, **Jincan Chen**, Heshan Lin, Longshan Lin, Ruibo Lei, Christyn Bailey, Jun Bo, **Environmental Research 2021 January**, CR分区Q1, 中科院分区2区，IF=8.431.
+- [Microplastics in three typical benthic species from the Arctic: occurrence, characteristics, sources, and environmental implications](https://doi.org/10.1016/j.envres.2020.110326), Chao Fang, Ronghui Zheng, Fukun Hong, Yulu Jiang, **Jincan Chen**, Heshan Lin, Longshan Lin, Ruibo Lei, Christyn Bailey, Jun Bo, **Environmental Research 2021 January**, JCR分区Q1, 中科院分区2区，IF=8.431.
 - [Zebrafish: A model deciphering the impact of flavonoids on neurodegenerative disorders](https://doi.org/10.3390/cells12020252), Kamel Mhalhel, Mirea Sicari, Lidia Pansera, **Jincan Chen**, Maria Levanti, Nicolas Diotel, Sepand Rastegar, Antonino Germanà, Giuseppe Montalbano, **Cells 2023 January**, JCR分区Q2, 中科院分区2区，IF=7.666.
 - [Developing and applying a classification system for ranking the biological effects of endocrine disrupting chemicals on male rockfish Sebastiscus marmoratus in the Maowei Sea, China](https://doi.org/10.1016/j.marpolbul.2020.111931), Ronghui Zheng, Chao Fang, Fukun Hong, Weiming Kuang, Cai Lin, Yulu Jiang, **Jincan Chen**, Yusheng Zhang, Jun Bo, **Marine Pollution Bulletin 2021 February**, JCR分区Q1, 中科院分区3区，IF=7.001.
 - [Biomonitoring of aromatic hydrocarbons in clam Meretrix meretrix from an emerging urbanization area, and implications for human health](https://doi.org/10.1016/j.ecoenv.2020.110271), Chao Fang, Jun Bo*, Ronghui Zheng, Fukun Hong, Weiming Kuang, Yulu Jiang, **Jincan Chen**, Yusheng Zhang, Helmut Segner, **Ecotoxicology and Environmental Safety 2020 April**, JCR分区Q1, 中科院分区1区，IF=6.291.
@@ -95,4 +95,4 @@ redirect_from:
 
 
 
-  *last updated on 26.02.2025* 
+  *last updated on 11.03.2025* 
