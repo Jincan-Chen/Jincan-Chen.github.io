@@ -19,13 +19,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Research interests
--  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on April 2025.
--  His research interest includes toxicology, neuroscience and aquaculture. He has published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-  我的研究兴趣包括(生态)毒理学、神经科学和水产养殖。我已累计发表了17篇论文，文章总引用数为<a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎉 News
 - *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT)!
-- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 
+- *2025.02*: &nbsp;🎉🎉 卡尔斯鲁厄，德国。陈锦灿博士获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位，并且荣获 *magna cum laude*（优等荣誉）！
+- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University!
+- *2025.04*: &nbsp;🎉🎉 厦门，中国。陈锦灿博士博士毕业后加入集美大学水产学院，担任讲师，并获得集美大学“青年拔尖人才A类”荣誉称号！
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
@@ -87,6 +89,7 @@ redirect_from:
 
 # 👀 Part-times
 - 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
+- Serves as a reviewer for academic journals such as *Ecotoxicology and Environmental Safety*, *Scientific Reports*, and *Advanced Healthcare Materials*.
  
 
 # 👀 Welcome to Xiamen, China!
