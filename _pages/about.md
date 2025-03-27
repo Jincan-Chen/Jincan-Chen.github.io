@@ -89,7 +89,7 @@ redirect_from:
 - 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
  
 
-# 👀 Welcome to visit Xiamen, China!
-- ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
+# 👀 Welcome to Xiamen, China!
+ ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
 
 * last updated on 27.03.2025* 
