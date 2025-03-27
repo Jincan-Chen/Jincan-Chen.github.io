@@ -95,7 +95,7 @@ redirect_from:
 # 👀 Welcome to Xiamen, China!
 -  Dr. Jincan Chen
 -  Fisheries College, Jimei University
--  jincan.chen@jmu.com
+-  jincan.chen@jmu.edu.cn
 -  https://jincan-chen.github.io/
 -  43 Yindou Road, Jimei District, Xiamen, Fujian 361021, P.R China
 -  ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
