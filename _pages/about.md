@@ -19,12 +19,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Research interests
--  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on May 2025.
+-  Jincan Chen received his doctoral degree in biology from Karlsruhe Institute of Technology (KIT) on February 2025 and join Fishries college, Jimei University on April 2025.
 -  His research interest includes toxicology, neuroscience and aquaculture. He has published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎉 News
-- *2025.02*: &nbsp;🎉🎉 Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany. Jincan Chen passed his oral exam with *magna cum laude*, congratulations! 
+- *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT)!
+- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
@@ -88,11 +89,4 @@ redirect_from:
 - 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
 
 
-# 🧑‍🧑‍🧒 Join us!
-- 随时欢迎任何对水产研究有兴趣的同学加入我们的行列！有无研究室经历并不重要，只要你对科学好奇，对水产着迷!
-- 我们非常欢迎对本实验室有兴趣之博士后研究研究人员加入，可申请博士后研究人员奖助金. 
-- 请与陈锦灿老师联络! E-mail: jincan.chen@outlook.com或致电 01-2345678. 
-
-
-
-  *last updated on 11.03.2025* 
+  *last updated on 27.03.2025* 
