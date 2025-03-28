@@ -24,8 +24,8 @@ redirect_from:
 
 
 # 🎉 News
-- *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT)! 陈锦灿以*magna cum laude*（优等荣誉）获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位！
-- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 获得博士学位后，陈锦灿通过集美大学“青年拔尖人才A类”岗位加入集美大学水产学院担任讲师！
+- *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT). 陈锦灿以极优等*magna cum laude*获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
+- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院，现担任讲师！
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
@@ -67,11 +67,11 @@ redirect_from:
 - *2023.04* 自然资源部第三海洋研究所, 科技成果奖海洋科学技术研究二等奖，排名8/12.
 
 # 🎓 Educations
-- *2021.10 - 2025.02*, Karlsruhe Institute of Technology (KIT), Biology, Doctorate of Natural Sciences, Karlsruhe, Germany. 德国卡尔斯鲁厄理工学院, 生物学, 自然科学博士.
+- *2021.10 - 2025.02*, Karlsruhe Institute of Technology (KIT), Biology, Doctoral degree in Natural Sciences, Karlsruhe, Germany. 德国卡尔斯鲁厄理工学院, 生物学, 自然科学博士.
 - *2018.09 - 2021.06*, Xiamen University, Marine biology, Master of Science. Xiamen, China. 厦门大学, 海洋生物学, 理学硕士.
 - *2018.09 - 2021.07*, Third Institute of Oceanography, Minstry of Natural Resources, Marine biology, Co-joint training program, Xiamen, China. 自然资源部第三海洋研究所，海洋生物学，联合培养硕士研究生.
 - *2015.07 - 2016.05*, University of British Columbia, Biological Sciences, Visiting student, Vancouver, Canada. 加拿大英属哥伦比亚大学，国家公派本科插班生.
-- *2013.09 - 2017.06*, Fujian Agriculture and Forestry University, Biology, Bachelor degree, Fuzhou, China. 福建农林大学，生物科学，理学学士.
+- *2013.09 - 2017.06*, Fujian Agriculture and Forestry University, Biological Sciences, Bachelor degree, Fuzhou, China. 福建农林大学，生物科学，理学学士.
 
 # 📒 Other training experiences
 - *2016.07.03 - 2016.07.09*, 中山大学, 第三届生态与进化暑期学校, 结业.
@@ -81,16 +81,15 @@ redirect_from:
 - *2021.10.04 - 2025.04.28*, 欧洲斑马鱼资源中心(EZRC), 博士课题研究, 结业.
 
 # 👀 Part-times
-- 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
-- Serves as a reviewer for academic journals such as *Ecotoxicology and Environmental Safety*, *Scientific Reports*, and *Advanced Healthcare Materials*.
+- Serves as a reviewer for academic journals such as *Ecotoxicology and Environmental Safety*, *Scientific Reports*, and *Advanced Healthcare Materials*. 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
  
 
 # 👀 Welcome to Xiamen, China!
--  Dr. Jincan Chen
--  Fisheries College, Jimei University
+-  Dr. Jincan Chen ｜ 陈锦灿博士
+-  Fisheries College, Jimei University ｜ 集美大学水产学院
 -  jincan.chen@jmu.edu.cn
 -  https://jincan-chen.github.io/
--  43 Yindou Road, Jimei District, Xiamen, Fujian 361021, P.R China
+-  43 Yindou Road, Jimei District, Xiamen, Fujian 361021, P.R China｜福建省厦门市集美区印斗路43号
 -  ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
 
 
