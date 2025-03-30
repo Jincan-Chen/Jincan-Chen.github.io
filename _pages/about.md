@@ -25,7 +25,7 @@ redirect_from:
 
 # 🎉 News
 - *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT). 陈锦灿以极优等*magna cum laude*获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
-- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Leuturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院，现担任讲师！
+- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assiatant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院，现担任讲师！
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
