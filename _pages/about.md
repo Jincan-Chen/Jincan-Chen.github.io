@@ -85,7 +85,7 @@ redirect_from:
 - Serves as a reviewer for academic journals such as *Ecotoxicology and Environmental Safety*, *Scientific Reports*, and *Advanced Healthcare Materials*. 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
  
 
-# 👀 Welcome to Xiamen, China!
+# 👀 Welcome to Xiamen
 -  Dr. Jincan Chen ｜ 陈锦灿博士
 -  Fisheries College, Jimei University ｜ 集美大学水产学院
 -  jincan.chen@jmu.edu.cn
