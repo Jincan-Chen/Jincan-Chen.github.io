@@ -24,8 +24,8 @@ redirect_from:
 
 
 # 🎉 News
-- *2025.02*: &nbsp;🎉🎉 Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT). 陈锦灿以极优等*magna cum laude*获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
-- *2025.04*: &nbsp;🎉🎉 Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assiatant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院，现担任讲师！
+- *2025.02*: &nbsp; Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT). 陈锦灿以极优等*magna cum laude*获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
+- *2025.04*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assiatant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
@@ -41,6 +41,7 @@ redirect_from:
 - *2021 - 2024*,  福建省自然科学基金面上项目, [福建海湾与河口潮间带典型底栖生物体内的微塑料污染特征及人体健康危害风险评估研究], 2021J0111, 10万, **参与**, 排名第6.
 
 # 📚 Publications
+- [Multiple cis-regulatory elements collaborate to control mdka expression in zebrafish adult telencephalic neural stem cells during constitutive and regenerative neurogenesis], **Jincan Chen**, Agnes Hendriks, Masanari Takamiya, Tanja Beil, Nicolas Diotel, Sepand Rastegar, **The FEBS Journal, 2025 April Under review**, JCR分区Q1, 中科院分区2区，IF=5.5.
 - [Environmentally relevant concentrations of microplastics modulated the immune response and swimming activity, and impaired the development of marine medaka Oryzias melastigma larvae](https://doi.org/10.1016/j.ecoenv.2022.113843), **Jincan Chen**, Chao Fang, Ronghui Zheng, Mingliang Chen, Duck-Hyun Kim, Young-Hwan Lee, Christyn Bailey, Kejian Wang, Jae-Seong Lee, Jun Bo, **Ecotoxicology and Environmental Safety, 2022 August**, JCR分区Q1, 中科院分区2区，IF=7.129.
 - [Comparative insight into the regenerative mechanisms of the adult brain in zebrafish and mouse: Highlighting the importance of the immune system and inflammation in successful regeneration](https://doi.org/10.1111/febs.17231), **Jincan Chen**, Hector Sanchez-Iranzo, Nicolas Diotel, Sepand Rastegar, **The FEBS Journal, 2024 June**, JCR分区Q1, 中科院分区2区，IF=5.5.
 - [Microplastics negatively impact embryogenesis and modulate the immune response of the marine medaka Oryzias melastigma](https://doi.org/10.1016/j.marpolbul.2020.111349), **Jincan Chen**, Mengyun Chen, Chao Fang, Ronghui Zheng, Yulu Jiang, Yusheng Jiang, Kejian Wang, Christyn Bailey, Helmut Segner, Jun Bo, **Marine Pollution Bulletin, 2020 September**, JCR分区Q1, 中科院分区3区，IF=5.553.
@@ -96,4 +97,4 @@ redirect_from:
 
 
 
-* last updated on 27.03.2025* 
+* last updated on 12.04.2025* 
