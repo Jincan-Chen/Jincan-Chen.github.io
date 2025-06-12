@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Courses
+title: Teaching
 ---
 
-# 📘 My Courses
+# 📘 My Teaching Courses
 
 
 - [Lecture 1: Introduction](lecture1-Introduction.pdf)
