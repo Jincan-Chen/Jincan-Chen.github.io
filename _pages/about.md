@@ -19,13 +19,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Research interests
--  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
--  我的研究兴趣包括(生态)毒理学、神经科学和水产养殖。我已累计发表了17篇论文，文章总引用数为<a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total citations: <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&label=Citations&color=blue">.
+-  我的研究兴趣包括(生态)毒理学、神经科学和水产养殖。我已累计发表了17篇论文，文章总引用数为<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&label=Citations&color=blue">.
 
 
 # 🎉 News
 - *2025.02*: &nbsp; Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences with *magna cum laude* from the Karlsruhe Institute of Technology (KIT). 陈锦灿以极优等*magna cum laude*获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
-- *2025.04*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assiatant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
+- *2025.04*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assistant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
 
 # 📑 Projects
 - *2017 - 2022*, 国家重点研发计划项目, [海岸带和沿海地区对海平面变化、极端气候事件的响应及脆弱性研究子课题—极端温度和盐度变化对重要鱼种的影响及脆弱性研究], 2019YFD090110, 30万, **参与**.
@@ -94,7 +94,10 @@ redirect_from:
 -  ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
 
 
+# 👨‍🏫 Teaching
 
+- *2025 Spring*, 《水产生态学》（Aquatic Ecology）, 本科课程，集美大学水产学院
+- *2025 Fall*, 《环境毒理学》（Environmental Toxicology）, 研究生课程，集美大学水产学院
 
 
 * last updated on 12.04.2025* 
