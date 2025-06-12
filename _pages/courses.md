@@ -4,14 +4,12 @@ title: "Courses"
 permalink: /courses/
 ---
 
-## 📘 我的课程资料
+# Courses
 
-欢迎访问我的课程页面。以下是我教授的一些课程和课件资料：
+Welcome to my teaching page. Here are some of the courses I have taught or am currently teaching.
 
-### 课程：Introduction to Aquatic Ecology
+- **2025 Spring – Marine Biology**  
+  [📄 Syllabus (PDF)](/files/syllabus_marine_biology.pdf)
 
-- 📄 [Lecture 1 - Introduction](../assets/courses/lecture1.pdf)
-- 📄 [Lecture 2 - Food Webs](../assets/courses/lecture2.pdf)
-- 📄 [Lecture 3 - Migration Ecology](../assets/courses/lecture3.pdf)
-
-> （请根据实际情况修改课程标题和 PDF 文件路径）
+- **2024 Fall – Ichthyology**  
+  [📄 Lecture Notes (PDF)](/files/lecture_notes_ichthyology.pdf)
