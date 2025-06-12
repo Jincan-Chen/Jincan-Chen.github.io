@@ -28,7 +28,7 @@ redirect_from:
 - *2025.04*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Assistant Professor and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
 
 
-# 👨‍🏫 Teaching
+# 👨‍🏫 Teaching Courses
 
 - *2025 Spring*, 《水产生态学》（Aquatic Ecology）, 本科课程，集美大学水产学院
 - *2025 Fall*, 《环境毒理学》（Environmental Toxicology）, 研究生课程，集美大学水产学院
@@ -117,4 +117,4 @@ redirect_from:
 
 
 
-* last updated on 12.04.2025* 
+* last updated on 12.06.2025* 
