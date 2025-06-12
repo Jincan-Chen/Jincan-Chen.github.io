@@ -1,10 +1,10 @@
 ---
 layout: none
-title: "Teaching"
+title: "Teaching Courses"
 permalink: /courses/
 ---
 
-# Teaching
+# Teaching courses
 
 Welcome to my teaching page. Here are some of the courses I have taught or am currently teaching.
 
