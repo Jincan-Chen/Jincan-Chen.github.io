@@ -162,9 +162,5 @@ compress_html:
   ignore:
     envs: development
 nav:
-  - name: "Home"
-    link: "/"
-  - name: "Publications"
-    link: "/publications/"
-  - name: "Courses"
+  - name: "Teaching Courses"
     link: "/courses/"
