@@ -1,6 +1,6 @@
 ---
-layout: none
-title: "Teaching courses"
+layout: page  # 或 default，取决于你的主题结构
+title: "Teaching Courses"
 permalink: /courses/
 ---
 
