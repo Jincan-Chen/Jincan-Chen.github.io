@@ -1,32 +1,6 @@
 # main links links
 main:
-  - title: "Research interests"
-    url: "/#-research-interests"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Courses"
+  - title: "Teachign courses"
     url: "/courses/"
   
-  - title: "Projects"
-    url: "/#-projects"
-
-  - title: "Publications"
-    url: "/#-publications"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Other training experiences"
-    url: "/#-other-training-experiences"
-
-  - title: "Part-times"
-    url: "/#-part-times"
-    
-  - title: "Welcome to Xiamen"
-    url: "/#-welcome-to-xiamen"
 
