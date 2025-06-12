@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 我的主讲课程
+title: My courses
 ---
 
-# 📘 我的主讲课程资料
+# 📘 My courses
 
 2025-2026S_001：Introduction to Cell Biology
 
