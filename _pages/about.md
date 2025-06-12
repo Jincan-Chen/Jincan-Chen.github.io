@@ -19,8 +19,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Research interests
--  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total citations: <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&label=Citations&color=blue">.
--  我的研究兴趣包括(生态)毒理学、神经科学和水产养殖。我已累计发表了17篇论文，文章总引用数为<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&label=Citations&color=blue">.
+-  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total citations: <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-  我的研究兴趣包括(生态)毒理学、神经科学和水产养殖。我已累计发表了17篇论文，文章总引用数为<a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎉 News
