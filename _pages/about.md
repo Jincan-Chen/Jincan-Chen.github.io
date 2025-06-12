@@ -30,7 +30,7 @@ redirect_from:
 
 # 👨‍🏫 Teaching Courses
 
-- *2026 Winter*, 《分子生物学》（Molecular Biology）, 本科课程，集美大学水产学院
+- *2025 Winter*, 《细胞生物学导论》（Introduction to Molecular Biology I）, 本科课程，集美大学水产学院
 
 
 # 📑 Projects
