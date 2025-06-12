@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "Teaching Courses"
+title: "Teaching courses"
 permalink: /courses/
 ---
 
