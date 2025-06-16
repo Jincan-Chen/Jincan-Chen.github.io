@@ -68,6 +68,9 @@ permalink: /courses/
 <p>Welcome to my teaching page. Here are some of the courses I have taught or am currently teaching.<br>
 欢迎来到我的教学页面。以下是我曾讲授或正在讲授的课程。</p>
 
+<p>This page is currently under construction. All materials shown are examples and sourced from publicly available content online.<br>
+当前页面正在创建中，所有材料均为示例，均来源于网上。</p>
+
 <h2>📘 2025 Spring – Introduction to Cell Biology I / 细胞生物学导论 I</h2>
 
 <table>
