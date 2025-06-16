@@ -83,21 +83,21 @@ permalink: /courses/
   <tbody>
     <tr>
       <td>Lecture 1</td>
-      <td>Introduction / 课程介绍</td>
+      <td>Introduction / 绪论</td>
       <td>1.2 MB</td>
       <td>2025-02-15</td>
       <td><a class="download-button" href="/courses/lecture1-Introduction.pdf" download>Download</a></td>
     </tr>
     <tr>
       <td>Lecture 2</td>
-      <td>Cell Biology / 细胞生物学</td>
+      <td>Plasma Membrane and Endomembrane System / 细胞质膜和内膜系统</td>
       <td>1.5 MB</td>
       <td>2025-02-22</td>
       <td><a class="download-button" href="/courses/lecture2-Cellbiology.pdf" download>Download</a></td>
     </tr>
     <tr>
       <td>Lecture 3</td>
-      <td>Genetics / 遗传学</td>
+      <td>Organelles, Related Physiological Activities, and Interactions / 细胞器、相关生理活动及互作</td>
       <td>1.8 MB</td>
       <td>2025-03-01</td>
       <td><a class="download-button" href="/courses/lecture3-Genetics.pdf" download>Download</a></td>
@@ -105,79 +105,8 @@ permalink: /courses/
   </tbody>
 </table>
 
-<h2>📘 2026 Fall – Introduction to Zoology I / 动物学导论 I</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Lecture</th>
-      <th>Description</th>
-      <th>File Size</th>
-      <th>Updated</th>
-      <th>Download</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lecture 1</td>
-      <td>Introduction / 课程介绍</td>
-      <td>1.2 MB</td>
-      <td>2025-02-15</td>
-      <td><a class="download-button" href="/courses/lecture1-Introduction.pdf" download>Download</a></td>
-    </tr>
-    <tr>
-      <td>Lecture 2</td>
-      <td>Cell Biology / 软体动物门</td>
-      <td>1.5 MB</td>
-      <td>2025-02-22</td>
-      <td><a class="download-button" href="/courses/lecture2-Cellbiology.pdf" download>Download</a></td>
-    </tr>
-    <tr>
-      <td>Lecture 3</td>
-      <td>Genetics / 环节动物门</td>
-      <td>1.8 MB</td>
-      <td>2025-03-01</td>
-      <td><a class="download-button" href="/courses/lecture3-Genetics.pdf" download>Download</a></td>
-    </tr>
-  </tbody>
-</table>
 
-<h2>📘 2026 Fall – Introduction to Zoology I / 动物学导论 I</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Lecture</th>
-      <th>Description</th>
-      <th>File Size</th>
-      <th>Updated</th>
-      <th>Download</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lecture 1</td>
-      <td>Introduction / 课程介绍</td>
-      <td>1.2 MB</td>
-      <td>2025-02-15</td>
-      <td><a class="download-button" href="/courses/lecture1-Introduction.pdf" download>Download</a></td>
-    </tr>
-    <tr>
-      <td>Lecture 2</td>
-      <td>Cell Biology / 软体动物门</td>
-      <td>1.5 MB</td>
-      <td>2025-02-22</td>
-      <td><a class="download-button" href="/courses/lecture2-Cellbiology.pdf" download>Download</a></td>
-    </tr>
-    <tr>
-      <td>Lecture 3</td>
-      <td>Genetics / 环节动物门</td>
-      <td>1.8 MB</td>
-      <td>2025-03-01</td>
-      <td><a class="download-button" href="/courses/lecture3-Genetics.pdf" download>Download</a></td>
-    </tr>
-  </tbody>
-</table>
 
 </body>
 </html>
