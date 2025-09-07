@@ -17,6 +17,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👤 个人简介
+- 陈锦灿，男，1994年9月生，福建晋江人，博士，讲师，福建省紧缺急需人才，厦门市高层次留学人员。2025年2月以极优等学位荣誉获得德国卡尔斯鲁厄理工学院（Karlsruhe Institute of Technology）自然科学博士学位，同年4月回国，7月加入集美大学水产学院。现主要从事水生经济动物生殖调控和性别分化分子机制等方面的研究。迄今已发表学术论文18篇，其中第一作者署名7篇。
 
 # 🔥 Research interests
 -  My research interests include (eco)toxicology, neuroscience, and aquaculture. I have published 17 papers with total citations: <a href='https://scholar.google.com/citations?user=ngAAQ0sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -26,7 +28,7 @@ redirect_from:
 # 🎉 News
 - *2025.02*: &nbsp; Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences from the Karlsruhe Institute of Technology (KIT). 陈锦灿获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
 - *2025.07*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Lecturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
-- *2025.07*: &nbsp; 福建省紧缺急需人才申请获批.
+
   
 
 # 👨‍🏫 Teaching Courses
