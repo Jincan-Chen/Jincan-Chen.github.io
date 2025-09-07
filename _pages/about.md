@@ -25,8 +25,9 @@ redirect_from:
 
 # 🎉 News
 - *2025.02*: &nbsp; Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences from the Karlsruhe Institute of Technology (KIT). 陈锦灿获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
-- *2025.06*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Lecturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
-
+- *2025.07*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Lecturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
+- *2025.07*: &nbsp; 福建省紧缺急需人才申请获批.
+  
 
 # 👨‍🏫 Teaching Courses
 
