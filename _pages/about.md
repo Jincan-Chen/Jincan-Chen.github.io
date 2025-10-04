@@ -28,12 +28,11 @@ redirect_from:
 # 🎉 News
 - *2025.02*: &nbsp; Karlsruhe, Germany. Jincan Chen received his Doctoral degree in Natural Sciences from the Karlsruhe Institute of Technology (KIT). 陈锦灿获得了卡尔斯鲁厄理工学院（KIT）自然科学博士学位.
 - *2025.07*: &nbsp; Xiamen, China. Jincan Chen joined the Fisheries College of Jimei University as a Lecturer and has been awarded the Category A Young Top-Tier Talent recognition at Jimei University! 博士毕业后，陈锦灿以“青年拔尖人才A类”岗位加入集美大学水产学院.
-
   
 
-# 👨‍🏫 Teaching Courses
-
-
+# 📅 Upcoming Conferences' Information
+- *May 04-08, 2026*, La Paz, Mexico. Navigating Changes in Smal Pelagic Fish and Forage Communicaties: Climate, Ecosystems, and Systainable Fisheries. https://meetings.pices.int/meetings/international/2026/pelagic/organizers.
+- *Oct 24-30, 2026*, Nanaimo, BC, Canada. PICES-2026 Annual Meeting: Actionable Science for a Changing Ocean. https://meetings.pices.int/meetings#pices-2026.
 
 
 # 📑 Projects
