@@ -133,6 +133,8 @@ redirect_from:
 - [CRISPOR](https://crispor.gi.ucsc.edu/) - 在线CRISPR/Cas9 gRNA设计与脱靶分析工具
 - [The R Graph Gallery](https://r-graph-gallery.com/) - 收集丰富R语言绘图示例的资源库，便于科研数据可视化与图表美化
 - [Cellpose](https://www.cellpose.org/) - 基于深度学习的通用细胞分割工具，适用于显微图像自动分析
+- [Cell Taxonomy](https://ngdc.cncb.ac.cn/celltaxonomy/) - 细胞类型及其相关细胞标记数据库
+
 
 
 
