@@ -102,6 +102,56 @@ redirect_from:
 
 
 
+## 🧬 生物学实用网站
+- [Notion](https://www.notion.com/) - 多合一笔记与项目管理工具，适用于科研笔记整理、协作与任务管理
+- [NCBI](https://www.ncbi.nlm.nih.gov/) – 基因组、蛋白质序列与生物信息数据库
+- [Ensembl](https://www.ensembl.org/) – 基因组浏览与注释平台
+- [UniProt](https://www.uniprot.org/) – 蛋白质序列与功能注释数据库
+- [PDB](https://www.rcsb.org/) – 蛋白质三维结构数据库
+- [KEGG](https://www.genome.jp/kegg/) – 代谢通路与代谢网络知识库
+- [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) – 序列相似性搜索工具
+- [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo) – 多序列比对工具
+- [FishBase](https://www.fishbase.se/) – 全球鱼类物种数据库
+- [AquaMaps](https://www.aquamaps.org/) – 水生生物分布预测数据库
+- [WoRMS](https://www.marinespecies.org/) – 全球海洋物种名录
+- [OBIS](https://obis.org/) – 海洋生物分布与生态数据平台
+- [SeaLifeBase](https://www.sealifebase.ca/) – 非鱼类水生生物数据库
+- [CZRC](http://www.zfish.cn/) - 中国斑马鱼资源中心，提供斑马鱼品系、实验资源及相关科研支持
+- [EZRC](https://www.ezrc.kit.edu/) - 欧洲斑马鱼资源中心，提供斑马鱼品系和相关科研资源
+- [Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/) - 教育资源，用于理解细胞大小及比例关系，通过交互式示意展示微观世界
+- [NEBioCalculator](https://nebiocalculator.neb.com/#!/ligation) – NEB推出的在线实验计算工具，可进行DNA浓度、摩尔转换、寡核苷酸复溶与稀释等常用计算
+- [NEB Tm Calculator](https://tmcalculator.neb.com/#!/main) - NEB 提供的在线工具，用于计算 DNA 寡核苷酸的熔解温度（Tm）
+- [UCSC Genome Browser](http://genome.ucsc.edu/) – 可视化基因组浏览器，整合多物种基因组序列与注释
+- [VENNY 2.1](https://bioinfogp.cnb.csic.es/tools/venny/index.html) - 在线维恩图工具，用于集合比较与交集分析
+- [Archive!Ensembl](https://may2015.archive.ensembl.org/index.html) - Ensembl 历史版本存档，可访问早期基因组注释数据
+- [Promega Biomath Calculators](https://worldwide.promega.com/resources/tools/biomath/) - 在线生物数学计算工具，支持浓度换算、稀释及常规分子生物学计算
+- [EC50 Calculator](https://www.aatbio.com/tools/ec50-calculator) - 在线工具，用于计算药物或化合物的半数有效浓度（EC50)
+- [NEB Enzyme Finder](https://enzymefinder.neb.com/#!#nebheader) - NEB提供的在线工具，用于查找限制性内切酶及其切割位点信息
+- [Addgene](https://www.addgene.org/) - 全球质粒资源库，提供质粒获取、信息查询及共享平台
+- [Sequence Manipulation Suite](http://wheatomics.sdau.edu.cn/sms2/filter_dna.html) - 在线DNA序列处理工具，可过滤序列并进行基本操作与分析
+- [Primer3web](https://primer3.ut.ee/) - 在线引物设计工具，支持PCR、qPCR和测序引物设计
+- [CRISPOR](https://crispor.gi.ucsc.edu/) - 在线CRISPR/Cas9 gRNA设计与脱靶分析工具
+- [The R Graph Gallery](https://r-graph-gallery.com/) - 收集丰富R语言绘图示例的资源库，便于科研数据可视化与图表美化
+- [Cellpose](https://www.cellpose.org/) - 基于深度学习的通用细胞分割工具，适用于显微图像自动分析
+
+
+## 🧩 生物学实用软件
+- [PyMOL](https://www.pymol.org/) – 蛋白质结构三维可视化与分析软件
+- [MEGA](https://www.megasoftware.net/) – 分子进化与系统发育分析软件
+- [SnapGene](https://www.snapgene.com/)- DNA质粒图谱与序列可视化工具
+- [R](https://www.fishbase.se/) – 生物数据统计与分析、可视化
+- [Python](https://www.python.org/) - 高级编程语言，广泛用于数据分析、统计计算和生物信息学工具开发
+- [ImageJ](https://imagej.net/software/fiji/downloads) – 图像分析（适用于显微与组织图像）
+- [BioVoxxel Tools](https://www.biovoxxel.de/tools/) - 系列图像分析和处理工具，适用于ImageJ生物学显微图像及量化分析
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) – 专业矢量图形设计软件，常用于绘制科研图表和示意图
+- [GraphPad Prism](https://www.graphpad.com/features) - 统计分析与科学绘图软件，常用于生物实验数据处理与可视化
+- [IBM SPSS Statistics](https://www.ibm.com/cn-zh/products/spss-statistics) - 专业统计分析软件，广泛用于实验数据处理、假设检验和数据建模
+- [OriginLab](https://www.originlab.com/) - 数据分析与科学绘图软件，用于实验数据可视化和图表制作
+- [Endnote](https://endnote.com/product-details/) - 文献管理软件，用于参考文献收集、管理和论文引用格式生成
+- [Zotero](https://www.zotero.org/) - 免费开源的文献管理工具，可收集、整理和引用学术文献
+
+
+
 # 👀 Part-times
 - Serves as a reviewer for academic journals such as *Ecotoxicology and Environmental Safety*, *Scientific Reports*, and *Advanced Healthcare Materials*. 担任 Ecotoxicology and Environmental Safety，Scientific Report 和 Advanced Healthcare Materials等学术期刊审稿人.
 
