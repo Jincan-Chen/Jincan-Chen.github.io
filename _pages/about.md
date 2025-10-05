@@ -102,7 +102,7 @@ redirect_from:
 
 
 
-## 🧬 生物学实用网站
+## 🧬 Useful Biology Websites
 - [Notion](https://www.notion.com/) - 多合一笔记与项目管理工具，适用于科研笔记整理、协作与任务管理
 - [NCBI](https://www.ncbi.nlm.nih.gov/) – 基因组、蛋白质序列与生物信息数据库
 - [Ensembl](https://www.ensembl.org/) – 基因组浏览与注释平台
@@ -135,7 +135,8 @@ redirect_from:
 - [Cellpose](https://www.cellpose.org/) - 基于深度学习的通用细胞分割工具，适用于显微图像自动分析
 
 
-## 🧩 生物学实用软件
+
+## 🧩 Useful Biology Software
 - [PyMOL](https://www.pymol.org/) – 蛋白质结构三维可视化与分析软件
 - [MEGA](https://www.megasoftware.net/) – 分子进化与系统发育分析软件
 - [SnapGene](https://www.snapgene.com/)- DNA质粒图谱与序列可视化工具
@@ -162,11 +163,8 @@ redirect_from:
 -  Lecturer ｜ 讲师
 -  Fisheries College, Jimei University ｜ 集美大学水产学院
 -  电子邮箱 ｜ E-mail：jincan.chen@jmu.edu.cn
--  个人网站 ｜ Personal website: https://jincan-chen.github.io/
--  43 Yindou Road, Jimei District, Xiamen, Fujian 361021, P.R China｜福建省厦门市集美区印斗路43号
--  ![banner06](https://github.com/user-attachments/assets/018be47b-2262-4782-b556-8a281be18876)
 
 
 
 
-* last updated on 27.09.2025* 
+* last updated on 05.Oct.2025* 
